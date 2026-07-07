@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F9D423,100:FFB800&height=220&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=38&fontColor=ffffff"/>
 
 <p align="center">
-  <img src="https://media.tenor.com/search?q=alice+study" width="250" alt="Alice Studying GIF"/>
+  <img src="https://media.tenor.com/9DOXBiQspSQAAAAi/hampter-sad.gif" width="250" alt="Alice Studying GIF"/>
 </p>
 
 ---
