@@ -11,11 +11,11 @@
 
 ## 🌸 About Me
 
-✨ I'm a passionate **B.Com (Hons.) student** with a strong interest in **Finance, Accounting, Business, and Data Analytics**.
+✨ I'm a passionate **B.Com (Hons.) student** with a strong interest in **Finance, Accounting, Business, 
 
 - 🎓 Pursuing Bachelor of Commerce (Honours)
 - 📚 Currently learning **Advanced Excel, SQL & Financial Analysis**
-- 💹 Interested in **Finance, Banking, Investment & Business Analytics**
+- 💹 Interested in **Finance, Banking, Investment 
 - 🌱 Always eager to learn new skills and gain practical experience
 - 💡 I believe in continuous learning and personal growth
 
@@ -51,7 +51,7 @@
 - 📈 Power BI
 - 💹 Financial Modeling
 - 📉 Stock Market Fundamentals
-- 📚 Business Analytics
+  
 
 ---
 
@@ -63,9 +63,6 @@ I aspire to build a successful career in **Finance, Accounting, Banking, or Busi
 ---
 
 ## 📌 Interests
-
-- 📖 Reading Business & Finance Books
-- 💹 Exploring Financial Markets
 - 🎨 Creative Designing
 - ✨ Learning New Skills
 - ☕ Tea & Productivity
